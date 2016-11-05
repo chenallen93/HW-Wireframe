@@ -1,1 +1,68 @@
-style.css
+#header {
+	background-color: #ebebeb;
+	text-align: center;
+	display: block;
+	width: 960px;
+	margin-left: 70px;
+}
+#body {
+	background-color: #777;
+	font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+
+}
+#nav {
+	background-color: #ebebeb;
+	text-align: center;
+	width: 960px;
+	margin-left: 70px;
+}
+#section{
+	background-color: #ebebeb;
+	width: 495px;
+	float: left;
+	text-align: center;
+	margin-left: 70px;
+	margin-bottom: 20px;
+	padding-bottom: 10px; 
+}
+#article {
+ background-color: #777;
+ text-align: center;
+ width: 400px;
+ margin-left: 50px;
+ padding-bottom: 3px;
+
+
+}
+#h {
+	background-color: #ebebeb;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#p {
+	background-color: #ebebeb;
+	text-align: center;
+margin-left: 10px;
+	margin-right: 10px;
+}
+#aside {
+ background-color: #ebebeb;
+ float: right;
+ width: 440px;
+ padding-bottom: 173px;
+margin-right: 80px;
+ text-align: center;
+
+}
+#footer {
+	background-color: #ebebeb;
+	width: 960px;
+	clear: both;
+	text-align: center;
+	margin-left: 70px; 
+
+
+
+}
